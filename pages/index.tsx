@@ -23,6 +23,14 @@ export default function Home() {
             </a>
           </Link>
         </button> 
+
+        <button className={styles.btnSecondary}>
+          <Link href='/registration'>
+            <a>
+              Go to Registration
+            </a>
+          </Link>
+        </button>
       </main>
 
     </div>

@@ -1,4 +1,4 @@
-import styles from '../../styles/Hunts.module.css';
+import styles from './Hunts.module.css';
 import HuntsList from '../../components/HuntsList';
 
 export default function Hunts({ hunts }) {

@@ -1,4 +1,4 @@
-import styles from '../styles/HuntsList.module.css';
+import styles from './HuntsList.module.css';
 
 
 const HuntsList = ({ title, client }) => {
